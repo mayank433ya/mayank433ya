@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Creating algorithm to help me ,in my work
 - 🌱 I’m currently learning ...Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mayankya944@gmail.com
+- 📫 How to reach me ... mayankya944@gmail.com
 
 <!---
 mayank433ya/mayank433ya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
